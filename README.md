@@ -1,4 +1,4 @@
-<p style="text-align:center;">Shapes And Bullets</p>
+# Shapes And Bullets
 
 >Created by TheSpikyHedgehog
 
